@@ -18,9 +18,9 @@ The service provides the following functionality:
 
 Open this project in your Visual Studio 2022 
 The program can be run in any ofthe following ways :
-1. TinyUrlApp.exe <LongUrl>  //Run program with only longURL , prints a short url , double clicks and deletes the URL  
-2. TinyUrlApp.exe <LongUrl>  <ShortUrl> //Run program with  longURL  and a short URL , prints a short url , double clicks and deletes the URL
-3. TinyUrlApp.exe //Run program with no command line arguments , asks the user for a longURL and an optional short Url  , prints a short url , double clicks and deletes the URL
+1. TinyUrlServiceApp.exe <LongUrl>  //Run program with only longURL , prints a short url , double clicks and deletes the URL  
+2. TinyUrlServiceApp.exe <LongUrl>  <ShortUrl> //Run program with  longURL  and a short URL , prints a short url , double clicks and deletes the URL
+3. TinyUrlServiceApp.exe //Run program with no command line arguments , asks the user for a longURL and an optional short Url  , prints a short url , double clicks and deletes the URL
 
 
 ## Running the tests
