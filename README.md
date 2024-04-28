@@ -23,6 +23,11 @@ The program can be run in any ofthe following ways :
 3. TinyUrlServiceApp.exe //Run program with no command line arguments , asks the user for a longURL and an optional short Url  , prints a short url , double clicks and deletes the URL
 
 
+## Future considerations
+1. Implementing as a singleton
+2. Synchronization support for multithreaded access
+
+
 ## Running the tests
 
 The test project has an has unit tests in the file *TinyUrlServiceTests.cs* 
